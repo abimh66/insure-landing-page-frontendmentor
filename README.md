@@ -1,4 +1,4 @@
-# Sunnyside Agency Landing Page
+# Insure Landing Page
 
 ![Design preview for the Insure landing page coding challenge](./screenshot/screenshot-preview.png)
 
